@@ -41,7 +41,7 @@ A Spring MVC web application for managing student course registrations with auth
    git clone https://github.com/yourusername/university-registration-system.git
    cd university-registration-system
 
-
+```
 src/
 ├── main/
 │   ├── java/
@@ -57,3 +57,4 @@ src/
 │       │   └── views/                # JSP pages
 │       └── static/                   # CSS/JS assets
 ├── test/                             # Test cases
+```
